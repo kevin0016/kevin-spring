@@ -1,7 +1,6 @@
 package com.itkevin.proxy.test.kevin;
 
 import javax.tools.JavaCompiler;
-import javax.tools.JavaFileObject;
 import javax.tools.StandardJavaFileManager;
 import javax.tools.ToolProvider;
 import java.io.File;
@@ -55,13 +54,13 @@ public class KevinProxy {
 
     private static String generateSrc(Class<?> interfaces){
         StringBuffer src = new StringBuffer();
-        src.append("package com.gupaoedu.vip.custom;" + ln);
+        src.append("package com.itkevin.proxy.test.kevin;" + ln);
         src.append("import java.lang.reflect.Method;" + ln);
         src.append("public class $Proxy0 implements " + interfaces.getName() + "{" + ln);
 
-        src.append("GPInvocationHandler h;" + ln);
+        src.append("KevinInvocationHandler h;" + ln);
 
-        src.append("public $Proxy0(GPInvocationHandler h) {" + ln);
+        src.append("public $Proxy0(KevinInvocationHandler h) {" + ln);
         src.append("this.h = h;" + ln);
         src.append("}" + ln);
 
