@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-singleton/kevin-singleton.iml" filepath="$PROJECT_DIR$/spring-singleton/kevin-singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kevin-spring.iml" filepath="$PROJECT_DIR$/.idea/kevin-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/kevin-strategy/kevin-strategy.iml" filepath="$PROJECT_DIR$/kevin-strategy/kevin-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-template/kevin-template.iml" filepath="$PROJECT_DIR$/kevin-template/kevin-template.iml" />
     </modules>
   </component>
 </project>
