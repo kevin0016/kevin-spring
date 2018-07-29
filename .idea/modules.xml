@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kevin-delegate/kevin-delegate.iml" filepath="$PROJECT_DIR$/kevin-delegate/kevin-delegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-prototype/kevin-prototype.iml" filepath="$PROJECT_DIR$/kevin-prototype/kevin-prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/kevin-proxy/kevin-proxy.iml" filepath="$PROJECT_DIR$/kevin-proxy/kevin-proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-singleton/kevin-singleton.iml" filepath="$PROJECT_DIR$/spring-singleton/kevin-singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kevin-spring.iml" filepath="$PROJECT_DIR$/.idea/kevin-spring.iml" />
